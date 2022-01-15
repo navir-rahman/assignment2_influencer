@@ -122,9 +122,14 @@ font-weight: 600;
  }
  .topSec_text_area{
      width: 60%;
+     margin: auto 10px;
  }
  .topSec_image{
      width: 40%;
+     background-image: url(images/Circle.svg);
+     background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto 10px;
      
  }
  .topSec_image:hover img{
